@@ -5,7 +5,7 @@ Course Description: This course was specifically designed to teach the complex n
 README purpose: This file is to showcase the projects that were completed throughout the course. This includes labs and the main project. Links are listed below: 
 
 -[L01: Exploring Real-World Applications of Computer Vision]: 
-  -[Link]:[Lab06_TrevorOakum_Detection_and_Segmentation_2026(2).ipynb](https://github.com/user-attachments/files/30677842/Lab06_TrevorOakum_Detection_and_Segmentation_2026.2.ipynb)
+  -[Link]:
   -[Description]:
 
 -[L02: Image Processing Fundamentals]: 
@@ -25,7 +25,7 @@ README purpose: This file is to showcase the projects that were completed throug
   -[Description]:
 
 -[L06: Object Detection using Transfer learning]: 
-  -[Link]:
+  -[Link]: [Lab06_TrevorOakum_Detection_and_Segmentation_2026(2).ipynb](https://github.com/user-attachments/files/30677842/Lab06_TrevorOakum_Detection_and_Segmentation_2026.2.ipynb)
   -[Description]:
 
 -[L08: Visual Language Models (VLMs)]: 
