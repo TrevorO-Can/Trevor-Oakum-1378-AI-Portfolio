@@ -9,7 +9,7 @@ README purpose: This file is to showcase the projects that were completed throug
   -[Description]:
 
 -[L02: Image Processing Fundamentals]: 
-  -[Link]:
+  -[Link]:[L02_Oakum_Trevor_ITAI1378.ipynb - Colab.pdf](https://github.com/user-attachments/files/30678102/L02_Oakum_Trevor_ITAI1378.ipynb.-.Colab.pdf)
   -[Description]:
 
 -[L03: Using Classic Machine Learning in Computer Vision]: 
