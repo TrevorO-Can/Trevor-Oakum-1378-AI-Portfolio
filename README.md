@@ -1,4 +1,4 @@
-# ITAL-1378: Computer Vision applied to Artificial-Intelligence
+# ITAL-1378: Computer Vision Applied to Artificial-Intelligence
 
 Course Description: This course was specifically designed to teach the complex nature of how machines interpret, analyze, understand, and apply Visual Data similar to the way humans see the world. This course facilitates the applied understanding and application of Computer Vision, and all of its components. 
 
