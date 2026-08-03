@@ -6,7 +6,6 @@ README purpose: This file is to showcase the projects that were completed throug
 
 -[L01: Exploring Real-World Applications of Computer Vision]: 
   -[Link]:[Lab06_TrevorOakum_Detection_and_Segmentation_2026(2).ipynb](https://github.com/user-attachments/files/30677842/Lab06_TrevorOakum_Detection_and_Segmentation_2026.2.ipynb)
-
   -[Description]:
 
 -[L02: Image Processing Fundamentals]: 
